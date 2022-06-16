@@ -1,0 +1,7 @@
+import classic_demo.nntraining as nntrain
+import classic_demo.paintcap as pc
+import classic_demo.imagearray as imgar
+
+nntrain()
+pc()
+imgar()
